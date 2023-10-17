@@ -1,3 +1,0 @@
-C:/Users/Святослав/CLionProjects/is_algo_2/cmake-build-debug/CMakeFiles/is_algo_2.dir
-C:/Users/Святослав/CLionProjects/is_algo_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Святослав/CLionProjects/is_algo_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
