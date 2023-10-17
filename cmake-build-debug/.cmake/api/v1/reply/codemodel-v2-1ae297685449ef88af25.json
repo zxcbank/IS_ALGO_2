@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "is_algo_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "is_algo_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-is_algo_2-Debug-63f94b6a7d1055b0aa74.json",
+					"name" : "is_algo_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0421\u0432\u044f\u0442\u043e\u0441\u043b\u0430\u0432/CLionProjects/is_algo_2/cmake-build-debug",
+		"source" : "C:/Users/\u0421\u0432\u044f\u0442\u043e\u0441\u043b\u0430\u0432/CLionProjects/is_algo_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
